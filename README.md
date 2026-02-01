@@ -62,4 +62,4 @@ To improve upon the current "Low Performance" baseline, the following enhancemen
 * **Attention Mechanisms:** Incorporating spatial attention to focus the network on key identity-defining landmarks (eyes, nose, mouth).
 
 ---
-*Developed by **DHARKIVE-STUDIO** | Based on the VIT Bangalore Research Project by Dharshani A.*
+Developed by **DHARKIVE-STUDIO**
